@@ -1,1 +1,1 @@
-https://blog.zhaytam.com/2018/08/21/creating-gifs-using-python-pillow/
+Pillow GIF maker example: https://blog.zhaytam.com/2018/08/21/creating-gifs-using-python-pillow/
